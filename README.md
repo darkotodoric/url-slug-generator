@@ -31,3 +31,5 @@ $slug = $slugGenerator->make('I’ve looked through LG’s new transparent OLED 
 // i-ve-looked-through-lg-s-new-transparent-oled-tv-and-seen-something-special
 ```
 
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.

@@ -1,11 +1,8 @@
 # URL Slug Generator
-
-URL Slug Generator simplifies the process of creating clean and SEO-friendly URLs
-
 ![Packagist License](https://img.shields.io/packagist/l/darkotodoric/url-slug-generator)
 ![Packagist Version](https://img.shields.io/packagist/v/darkotodoric/url-slug-generator)
 
-#
+URL Slug Generator simplifies the process of creating clean and SEO-friendly URLs
 
 ## Installation
 

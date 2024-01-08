@@ -1,0 +1,5 @@
+<phpunit bootstrap="tests/bootstrap.php" cacheResult="false">
+    <testsuite name="SlugGenerator Tests">
+        <directory>tests</directory>
+    </testsuite>
+</phpunit>

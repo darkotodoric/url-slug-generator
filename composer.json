@@ -1,6 +1,6 @@
 {
     "name": "darkotodoric/url-slug-generator",
-    "description": "URL Slug Generator simplifies the process of creating clean and SEO friendly URLs",
+    "description": "URL Slug Generator simplifies the process of creating clean and SEO-friendly URLs",
     "keywords": ["url", "slug", "generator", "url-slug-generator"],
     "homepage": "https://github.com/darkotodoric/url-slug-generator",
     "type": "library",

@@ -17,7 +17,7 @@ class SlugGenerator
         // Transliterate accent characters
         $string = $this->transliterateString($string);
 
-        if(!preg_match('/[a-z0-9]/', $string)) {
+        if (!preg_match('/[a-z0-9]/', $string)) {
             throw new \Exception('Slug cannot be created!');
         }
 

@@ -1,4 +1,5 @@
 # URL Slug Generator
+
 ![Packagist License](https://img.shields.io/packagist/l/darkotodoric/url-slug-generator)
 ![Packagist Version](https://img.shields.io/packagist/v/darkotodoric/url-slug-generator)
 
@@ -29,4 +30,5 @@ $slug = $slugGenerator->make('I’ve looked through LG’s new transparent OLED 
 ```
 
 ## Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
